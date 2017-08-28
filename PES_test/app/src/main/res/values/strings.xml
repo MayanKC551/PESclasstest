@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">PES_test</string>
+    <string name="text">ENVIRONMENTAL DATA</string>
+    <string name="show">SHOW DATA</string>
+    <string name="graph">SHOW GRAPH</string>
+    <string name="accel">ACCELEROMETER</string>
+    <string name="magnet">MAGNETOMETER</string>
+    <string name="gyro">GYROSCOPE</string>
+    <string name="light">LIGHT INTENSITY</string>
+    <string name="accdef">0</string>
+    <string name="gyrodef">0</string>
+    <string name="lightdef">0</string>
+    <string name="magdef">0</string>
+    <string name="backd">BACK</string>
+    <string name="backg">BACK</string>
+    <string name="showg">SHOW GRAPH</string>
+</resources>
